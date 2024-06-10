@@ -21,7 +21,7 @@ body
 .container_main
 {
     visibility: hidden;
-    background-color: rgba(255, 67, 161, 0);
+    background-color: rgba(255, 85, 170, 0);
     width: 300px;
     height: 175px;
     position: absolute;
@@ -65,7 +65,7 @@ body
 
 .container_main a[href]:hover
 {
-    color: rgb(255, 87, 179);
+    color: rgb(255, 85, 170);
     text-decoration: underline;
     font-family: monospace;
     font-size: 13px;
@@ -87,7 +87,7 @@ body
 
 .title, .title:link, .title:active, .title:visited
 {
-    color: rgb(255, 87, 179) !important;
+    color: rgb(255, 85, 170) !important;
     font-family: monospace;
     font-style: normal;
     font-size: 17px;
@@ -107,7 +107,7 @@ body
     text-align: center;
     border-style: solid;
     border-width: 1px;
-    border-color: rgb(255, 88, 157);
+    border-color: rgb(255, 85, 170);
     background-color: rgb(8,8,13);
 }
 
